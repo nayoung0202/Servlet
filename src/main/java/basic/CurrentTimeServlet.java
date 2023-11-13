@@ -1,4 +1,4 @@
-package com.kitri.myfirstservlet;
+package basic;
 
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
