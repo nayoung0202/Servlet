@@ -1,4 +1,4 @@
-<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+ fsdsdf<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -33,6 +33,10 @@
 <a href="site.html">상태 정보 유지 기술 : 요청 단위 (Request)</a>
 <br/>
 <a href="dispatcher1">포워드</a>
+<br/>
+<a href="practice/join.html">실습 3 : 회원가입</a>
+<br/>
+<a href="practice/login.html">실습 3 : 로그인</a>
 </body>
 </body>
 <h4><%="Hello!!"%></h4>
